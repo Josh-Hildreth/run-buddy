@@ -19,3 +19,6 @@ https://lernantino.github.io/run-buddy/
 ## Contribution
 
 Made with ❤️ by Josh Hildreth
+
+
+### ©️2019 Run Buddy, Inc 
